@@ -32,13 +32,14 @@
 				<configuration>
                     <cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${muleVersion}</muleVersion>
-						<username>${username}</username>
-						<password>${password}</password>
-						<applicationName>${applicationName}</applicationName>
-						<environment>${environment}</environment>
-						<businessGroup>${businessGroup}</businessGroup>
-						<workerType>${workerType}</workerType>
+						<muleVersion>4.4.0</muleVersion>
+						<username>Suprabath0911</username>
+						<password>Kristam@0910</password>
+						<applicationName>cicddemo</applicationName>
+						<environment>Sandbox</environment>
+						<businessGroup>Apisero Demo</businessGroup>
+						<workerType>Micro</workerType>
+						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
 						</cloudHubDeployment>
             </configuration>
